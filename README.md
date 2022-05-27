@@ -22,3 +22,7 @@ git push
 
 
 - git pull
+
+
+# changed via an editor
+> i dont like doing this but ...
